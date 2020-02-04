@@ -69,6 +69,11 @@ a :hover{
   display: inline-block;
 }
 
+.content3{
+  position:absolute;
+  margin-left: 50px;
+}
+
 
 .down-container{
   text-align: center;
